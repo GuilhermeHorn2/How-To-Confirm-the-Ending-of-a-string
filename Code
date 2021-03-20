@@ -1,0 +1,10 @@
+unction confirmEnding(str, target) {
+  str.split('');
+  target.split('')
+  if (target === str.slice(str.length - target.length )){
+    return true
+  }
+  else{
+    return false
+  }
+}
