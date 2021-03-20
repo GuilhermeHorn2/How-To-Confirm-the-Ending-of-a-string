@@ -1,0 +1,1 @@
+# How-To-Confirm-the-Ending-of-a-string
